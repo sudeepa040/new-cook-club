@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "ai.cookclub.app.twa",
+            "sha256_cert_fingerprints": [
+                "F9:07:4D:D9:53:27:D1:A1:15:1A:2D:CE:87:B0:AE:F3:7A:B1:F8:CD:A0:4F:D7:EF:0F:F1:78:5A:14:C0:D3:77"
+            ]
+        }
+    }
+]
